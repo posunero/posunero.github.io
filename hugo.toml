@@ -1,0 +1,93 @@
+baseURL = 'https://posunero.github.io/'
+languageCode = 'en-us'
+title = 'Paul Osunero Blog'
+theme = 'PaperMod'
+
+# For GitHub Pages deployment
+publishDir = 'docs'
+
+[params]
+  env = "production"
+  description = "Paul Osunero's personal blog"
+  keywords = ["blog", "technology", "programming"]
+  author = "Paul Osunero"
+  
+  # Theme-specific parameters
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+
+  [params.assets]
+    favicon = "/favicon.ico"
+    favicon16x16 = "/favicon-16x16.png"
+    favicon32x32 = "/favicon-32x32.png"
+    apple_touch_icon = "/apple-touch-icon.png"
+    safari_pinned_tab = "/safari-pinned-tab.svg"
+
+  [params.label]
+    text = "Paul Osunero"
+    icon = "/apple-touch-icon.png"
+    iconHeight = 35
+
+  [params.profileMode]
+    enabled = false
+    title = "Paul Osunero"
+    subtitle = "Welcome to my blog"
+    imageUrl = "#"
+    imageWidth = 120
+    imageHeight = 120
+    imageTitle = "Paul Osunero"
+
+  [params.homeInfoParams]
+    Title = "Hi there 👋"
+    Content = "Welcome to my blog where I share thoughts on technology, programming, and more."
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/posunero"
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/paul-osunero"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+  
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 20
+  
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 30
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    style = "github"
+    
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
