@@ -10,17 +10,15 @@ Hi there! I'm Paul Osunero, and welcome to my personal blog.
 
 ## Who I Am
 
-I'm a passionate developer and technology enthusiast who loves to explore new technologies, share knowledge, and contribute to the development community. This blog is where I document my learning journey, share insights, and discuss various topics related to software development and technology.
+I'm a software engineer living in NYC
 
 ## What You'll Find Here
 
-On this blog, you can expect to find:
+anything I find neat
 
-- **Technical tutorials** and how-to guides
-- **Programming insights** and best practices
-- **Technology reviews** and comparisons
-- **Personal projects** and their development stories
-- **Industry trends** and observations
+* AI things
+* programming things
+* nyc food things?
 
 ## Get In Touch
 
@@ -28,7 +26,3 @@ Feel free to connect with me on:
 
 - [GitHub](https://github.com/posunero) - Check out my open source contributions
 - [LinkedIn](https://linkedin.com/in/paul-osunero) - Let's connect professionally
-
-I'm always open to interesting conversations about technology, collaboration opportunities, and sharing knowledge with fellow developers.
-
-Thanks for visiting my blog!
