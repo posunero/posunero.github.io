@@ -36,7 +36,7 @@ publishDir = 'docs'
     apple_touch_icon = "/apple-touch-icon.png"
     safari_pinned_tab = "/safari-pinned-tab.svg"
     disableHLJS = false
-    disableFingerprinting = false
+    disableFingerprinting = true
 
   [params.label]
     text = "Paul Osunero"
