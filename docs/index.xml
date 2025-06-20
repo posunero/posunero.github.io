@@ -1,31 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Paul Osunero Blog</title>
-    <link>https://posunero.github.io/</link>
-    <description>Recent content on Paul Osunero Blog</description>
-    <generator>Hugo -- 0.147.8</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 20 Jun 2025 02:14:13 -0400</lastBuildDate>
-    <atom:link href="https://posunero.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Welcome to My Blog! 🎉</title>
-      <link>https://posunero.github.io/posts/my-first-post/</link>
-      <pubDate>Fri, 20 Jun 2025 02:14:13 -0400</pubDate>
-      <guid>https://posunero.github.io/posts/my-first-post/</guid>
-      <description>My first post introducing this new Hugo-powered blog</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://posunero.github.io/about/</link>
-      <pubDate>Fri, 20 Jun 2025 02:12:52 -0400</pubDate>
-      <guid>https://posunero.github.io/about/</guid>
-      <description>&lt;h1 id=&#34;about-me&#34;&gt;About Me&lt;/h1&gt;
-&lt;p&gt;Hi there! I&amp;rsquo;m Paul Osunero, and welcome to my personal blog.&lt;/p&gt;
-&lt;h2 id=&#34;who-i-am&#34;&gt;Who I Am&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;m a passionate developer and technology enthusiast who loves to explore new technologies, share knowledge, and contribute to the development community. This blog is where I document my learning journey, share insights, and discuss various topics related to software development and technology.&lt;/p&gt;
-&lt;h2 id=&#34;what-youll-find-here&#34;&gt;What You&amp;rsquo;ll Find Here&lt;/h2&gt;
-&lt;p&gt;On this blog, you can expect to find:&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Paul Osunero Blog</title><link>https://posunero.github.io/</link><description>Recent content on Paul Osunero Blog</description><generator>Hugo -- 0.147.8</generator><language>en-us</language><lastBuildDate>Fri, 20 Jun 2025 02:14:13 -0400</lastBuildDate><atom:link href="https://posunero.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Welcome to My Blog! 🎉</title><link>https://posunero.github.io/posts/my-first-post/</link><pubDate>Fri, 20 Jun 2025 02:14:13 -0400</pubDate><guid>https://posunero.github.io/posts/my-first-post/</guid><description>My first post introducing this new Hugo-powered blog</description></item><item><title>About</title><link>https://posunero.github.io/about/</link><pubDate>Fri, 20 Jun 2025 02:12:52 -0400</pubDate><guid>https://posunero.github.io/about/</guid><description>&lt;h1 id="about-me">About Me&lt;/h1>
+&lt;p>Hi there! I&amp;rsquo;m Paul Osunero, and welcome to my personal blog.&lt;/p>
+&lt;h2 id="who-i-am">Who I Am&lt;/h2>
+&lt;p>I&amp;rsquo;m a passionate developer and technology enthusiast who loves to explore new technologies, share knowledge, and contribute to the development community. This blog is where I document my learning journey, share insights, and discuss various topics related to software development and technology.&lt;/p>
+&lt;h2 id="what-youll-find-here">What You&amp;rsquo;ll Find Here&lt;/h2>
+&lt;p>On this blog, you can expect to find:&lt;/p></description></item></channel></rss>
